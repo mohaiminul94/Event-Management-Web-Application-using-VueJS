@@ -1,13 +1,12 @@
 <template>
     <div>
-        <h1>Display Single Event #{{ id }}</h1>
+        <h1>This is {{ $route.params.username }} page</h1>
     </div>
 </template>
 
-
 <script>
 export default {
-    props: ['id'],
+
 }
 </script>
 
