@@ -4,6 +4,8 @@
 
         <EventCard/>
 
+        <BaseIcon/>
+
     </div>
 </template>
 
